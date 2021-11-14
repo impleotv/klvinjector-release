@@ -1,0 +1,22 @@
+{
+  "name": "klvinjector-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impleotv/klvinjector-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impleotv/klvinjector-release/issues"
+  },
+  "homepage": "https://github.com/impleotv/klvinjector-release#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
