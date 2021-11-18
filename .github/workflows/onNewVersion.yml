@@ -17,13 +17,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v1
    
-      - name: Download release asset
+      - name: Download SetupKlvInjector.zip from release assets
         uses: dsaltares/fetch-gh-release-asset@master
-        with:
-          #version: tags/${{ env.RELEASE }}          
+        with:       
           file: SetupKlvInjector.zip
           target: SetupKlvInjector.zip
-          # token: ${{ secrets.DEPLOY_TOKEN }}
+      
+      - name: Download CHANGELOG.md from release 
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:    
+          file: CHANGELOG.md
+          target: CHANGELOG.md
 
       - run: echo "🖥️ The version is ready to be uploaded."
       - name: List files in the repository
