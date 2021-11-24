@@ -1,6 +1,12 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.8.10 (23/11/21)
+- Update low level
+- Add time restricted license support
+- Boost v142
+- STANAG Player SDK v3.8.10
+
 ### Ver. 3.8.9.1 (14/11/21)
 - Low level update. VS2019 resistributables
 
