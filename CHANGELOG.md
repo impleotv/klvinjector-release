@@ -1,6 +1,9 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.8.11 (19/12/21)
+- Update low level
+
 ### Ver. 3.8.10 (23/11/21)
 - Update low level
 - Add time restricted license support
