@@ -1,6 +1,9 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.8.12 (20/01/22)
+- Fix crash on KlvBaseTypes loading
+
 ### Ver. 3.8.11 (19/12/21)
 - Update low level
 
