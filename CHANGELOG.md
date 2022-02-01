@@ -1,6 +1,11 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.8.13 (01/02/22)
+- Check for non ascii file name
+- Fix Merge Default packet
+- Update license persistence
+
 ### Ver. 3.8.12 (20/01/22)
 - Fix crash on KlvBaseTypes loading
 
