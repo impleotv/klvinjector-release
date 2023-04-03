@@ -1,6 +1,25 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.9.4 (3/04/23)
+- Update low level. Fix Metadata_AU_cell () size 
+
+### Ver. 3.9.3 (12/02/23)
+- Update low level 
+
+### Ver. 3.9.2 (14/08/22)
+- Add tags 115, 116, 121, 122, 128, 138, 139
+- Update MisbCore (fix VMTI target id)
+- Update low level 
+
+### Ver. 3.9.1 (08/22)
+ - Support default packet with "Items" (exported from KlvInspector.
+
+### Ver. 3.9.0 (12/05/22)
+- Add deepstack object detection (VMTI)
+- Modify Mission and Options dlgs
+- Modifiy nodeinfo
+
 ### Ver. 3.8.13 (01/02/22)
 - Check for non ascii file name
 - Fix Merge Default packet
