@@ -1,6 +1,10 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.10.0 (23/05/23)
+- Low level update. FFmpeg version change
+- Add api for configuring decoding hw acceleration type
+
 ### Ver. 3.9.4 (3/04/23)
 - Update low level. Fix Metadata_AU_cell () size 
 
