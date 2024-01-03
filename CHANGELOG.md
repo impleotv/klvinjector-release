@@ -1,6 +1,10 @@
 ﻿Change Log
 ==========
 
+### Ver. 3.10.11 (03/01/24)
+- Update low level
+- Fix vmti number of targets. Move filehelper to misbCore (json2Klv)
+
 ### Ver. 3.10.10 (14/12/23)
 - Update low level
 
