@@ -1,5 +1,9 @@
 ﻿Change Log
 ==========
+### Ver. 3.11.5 (24/03/24)
+- Update MisbCore
+	- Remove length from VMTI Location (tag 17)
+	- Remove length from VMTI Velocity and Acceleration DLP 
 
 ### Ver. 3.10.15 (29/01/24)
 - Update low level
