@@ -1,5 +1,28 @@
 ﻿Change Log
 ==========
+
+### Ver. 4.0.5 (19/05/24)
+- low level 
+	- Complete support for pull demux with MPEG-PROGRAM input
+	- Complete fix for IIS crash
+
+### Ver. 4.0.2 (5/05/24)
+- Modify JWT license implementation
+
+### Ver. 4.0.1 (2/05/24)
+- low level 
+	- Fix pause handling in VideoOverlayMixer
+	- improve D3d video renderer performance
+
+### Ver. 4.0.0 (1/05/24)
+- Move to .Net 4.7.2
+- Add JWT license
+
+- Modify low level 
+	- Add delay option in videoOverlayMixer
+	- Add option to override aspect ratio in VideoOverlayMixer
+	- Improvements in presentation filters
+
 ### Ver. 3.12.0 (26/03/24)
 - Modify NodeInfo format
 Low level:
