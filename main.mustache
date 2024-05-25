@@ -12,7 +12,7 @@ More [info](https://impleotv.com/products/applications/klvinjector).
 
 ## System Requirements
 
-OS: Windows 10 64 bit.
+OS: Windows 10/11 64 bit.
 
 ## Installation
 
