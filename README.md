@@ -23,10 +23,10 @@ Unzip the **SetupKlvInjector.zip** file and run the **SetupKlvInjector.exe**
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvInjector** |  v4.0.5 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
+| **KlvInjector** |  v4.1.0 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
 
 
-*Released on Mon, 20 May, 11:49 GMT+3*
+*Released on Wed, 14 Aug, 09:57 GMT+3*
 
 ## License
 

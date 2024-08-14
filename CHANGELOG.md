@@ -1,6 +1,20 @@
 ﻿Change Log
 ==========
 
+### Ver. 4.1.0 (12/08/24)
+- low level modifications
+- MisbCore VMTI modifications
+	- Add MISB903.6 support 
+
+### Ver. 4.0.7 (05/06/24)
+- low level
+	- Fix aspect ratio and vertical flip in video snapshot
+	- Fix handling of H265 decoding using Elecard, when callback requires RGB
+
+### Ver. 4.0.6 (26/05/24)
+- low level 
+	- Add an option to select the gpu device performing the hw accelerated decoding
+
 ### Ver. 4.0.5 (19/05/24)
 - low level 
 	- Complete support for pull demux with MPEG-PROGRAM input
