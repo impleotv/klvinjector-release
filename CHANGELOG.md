@@ -1,5 +1,42 @@
 ﻿Change Log
 ==========
+### Ver. 4.2.5 (24/02/25)
+- low level Ver. 1.7.9 (23/2/25)
+	- Added API for enable/disable transport discontinuity events (default is ignore discontinuity)
+
+### Ver. 4.2.4 (19/02/25)
+- Replace x32 h264 encoder with x64
+- low level Ver. 1.7.8 (19/2/25)
+	- Fixed resolution detection in HEVC
+	- supporting synthetic video insertion and dynamic input resolution change in encoder
+	- fixing a regression bug in video capture mode
+	- Supporting aspect ration dynamic change in encoder
+
+### Ver. 4.2.3 (09/02/25)
+- Update time server implementation
+
+### Ver. 4.2.2 (04/02/25)
+- low level
+	- MPEG-TS detection fixes
+
+### Ver. 4.2.1 (30/01/25)
+- low level
+ - Adding support for AV1 in RTP input and in decoding
+ - AV1 stabilization fixes
+
+### Ver. 4.2.0 (12/01/25)
+- low level
+ - Upgrading ffmpeg to 5.1.2
+ - Use Filters v1.7
+
+### Ver. 4.1.4 (15/11/24)
+- low level
+	- support decoding of H265 with P10 pixel format
+
+### Ver. 4.1.2 (16/10/24)
+- low level
+	- Fix RTSP if more than 4 tracks
+	- Fix Directx renderer dead-lock in low delay
 
 ### Ver. 4.1.0 (12/08/24)
 - low level modifications
