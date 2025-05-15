@@ -23,10 +23,10 @@ Unzip the **SetupKlvInjector.zip** file and run the **SetupKlvInjector.exe**
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvInjector** |  v4.2.10 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
+| **KlvInjector** |  v4.2.12 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
 
 
-*Released on Mon, 12 May, 08:42 GMT+3*
+*Released on Thu, 15 May, 12:09 GMT+3*
 
 ## License
 
@@ -37,7 +37,7 @@ No license is needed for application evaluation - it will work in demo mode (wit
 
 ![NodeInfo string](images/license.png)
 
-Please copy-paste *Node Info*, don't send an image...
-
-You'll get back a **license** file and a **key**.
-Select the license file in the *Options/License* page and apply the provided key.
+Copy and paste the Node Info string into the online form, or email it to support@impleotv.com.  
+If your computer is offline or you're unable to copy the Node Info text, take a photo of the license page with the QR code clearly visible and send it to us instead.  
+You'll receive a license file (or a license file and a key, for legacy versions).  
+To complete activation, select the license file on the Options -> License page. If a key is provided, enter it as well.
