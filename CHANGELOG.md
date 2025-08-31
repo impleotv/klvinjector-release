@@ -1,6 +1,10 @@
 ﻿Change Log
 ==========
 
+### Ver. 4.3.0 (31/08/25)
+ Low level Ver. 1.7.22 (31/8/25)
+- Add support for MPEG TS Demux with AV1
+
 ### Ver. 4.2.12 (14/05/25)
 - MISB 601. Add tag 140 (WeaponsStores)
 - Add Node info QR code presentation
