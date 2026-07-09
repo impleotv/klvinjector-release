@@ -1,6 +1,14 @@
 ﻿Change Log
 ==========
 
+
+### Ver. 4.3.9 (20/05/26)
+	- Low level Ver. (19/5/26)
+		- Completed support for very low frame rate with AV1/RTP stream 
+	- Low level Ver. 1.7.35 (3/5/26)
+		- Supporting very low frame rate (one frame per number of seconds)
+
+
 ### Ver. 4.3.6 (01/03/26)
 - Sign StCore 
 - Low level Ver. 1.7.27 (7/1/26)
