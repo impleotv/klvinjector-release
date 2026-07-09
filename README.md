@@ -26,7 +26,7 @@ Unzip the **SetupKlvInjector.zip** file and run the **SetupKlvInjector.exe**
 | **KlvInjector** |  v4.3.12 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
 
 
-*Released on Thu, 9 Jul 2026, 18:35 GMT+3*
+*Released on Thu, 9 Jul 2026, 18:52 GMT+3*
 
 ## License
 
